@@ -1,0 +1,8 @@
+E:\ItStep\HW\Exam_CMD_Karvatyuk\bin\Debug\Exam_CMD_Karvatyuk.exe.config
+E:\ItStep\HW\Exam_CMD_Karvatyuk\bin\Debug\Exam_CMD_Karvatyuk.exe
+E:\ItStep\HW\Exam_CMD_Karvatyuk\bin\Debug\Exam_CMD_Karvatyuk.pdb
+E:\ItStep\HW\Exam_CMD_Karvatyuk\obj\Debug\Exam_CMD_Karvatyuk.csproj.CoreCompileInputs.cache
+E:\ItStep\HW\Exam_CMD_Karvatyuk\obj\Debug\Exam_CMD_Karvatyuk.exe
+E:\ItStep\HW\Exam_CMD_Karvatyuk\obj\Debug\Exam_CMD_Karvatyuk.pdb
+E:\ItStep\HW\Exam_CMD_Karvatyuk\obj\Debug\Exam_CMD_Karvatyuk.csproj.AssemblyReference.cache
+E:\ItStep\HW\Exam_CMD_Karvatyuk\obj\Debug\Exam_CMD_Karvatyuk.csproj.SuggestedBindingRedirects.cache
